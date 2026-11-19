@@ -1,0 +1,14 @@
+[
+ {
+  "relation": [
+   "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+   "namespace": "android_app",
+   "package_name": "no.wergeland.zniff",
+   "sha256_cert_fingerprints": [
+    "6A:B8:14:13:5B:0F:E9:16:14:DD:66:77:28:6C:90:BB:DE:0C:A2:45:42:06:2E:E1:3B:78:BE:C8:13:61:2E:D7"
+   ]
+  }
+ }
+]
